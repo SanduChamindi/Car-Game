@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Car game</string>
+    <string name="score">Score : 0</string>
+    <string name="start">Start</string>
+    <string name="highscore">High Score: $highScore</string>
+</resources>
